@@ -1,0 +1,47 @@
+body{
+	background-color:#a3a3a3;
+	text-align:center;
+	margin:10% auto;
+	font-size:auto;
+}
+
+header{
+	color:black;
+	height:80%;
+	width:80%;
+	margin:0% auto;
+}
+
+img{
+	position:absolute;
+	top:0px;
+	left:0px;
+	height:100%;
+	width:100%;
+}
+
+h1{
+	font-size:3em;
+}
+h2{
+	font-weight:lighter;
+	font-size:1.5em;
+}
+
+section{
+	width:200px;
+	height:50px;
+	border:2px black solid;
+	border-radius:10px;
+	margin:5% auto;
+	background-color:#515151;
+}
+
+a{
+	color:white;
+	text-decoration:none;
+	padding:30px;
+	margin:10px;
+	position:relative;
+	top:15px;
+}

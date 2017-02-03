@@ -1,0 +1,63 @@
+/*main colours=
+	#a3a3a3 (grey)
+	#0b63ef (blue)
+	#095907 (green)
+	#ffe100 (yellow)
+	#5e0ca0 (purple)*/
+
+.note{
+	display:none;
+}
+
+body div{
+	text-align:center;
+}
+
+body div header{
+	background-color:#565656;
+	background-repeat:no-repeat;
+	background-size:100%;
+	border-radius:50px;
+	text-align:left;
+	margin:1% auto;
+	border: solid black 3px;
+	height:110px;
+	width:95%;
+	max-width:1000px;
+	min-width:380px;
+	display:flex;
+	flex-wrap:wrap;
+}
+
+body div header hgroup{
+	display:inline-block;
+	width:99%;
+}
+
+#blood{
+	height:200px;
+	padding:10px;
+	position:fixed;
+	top:10px;
+}
+body div header hgroup h1{
+	display:inline;
+	vertical-align:top;
+	position:relative;
+	top:10px;
+	left:100px;
+}
+
+body div header hgroup h2{
+	vertical-align:top;
+	position:relative;
+	top:20px;
+	left:150px;
+	width:70%;
+}
+
+#blood2{
+	position:fixed;
+	right:20px;
+	top:0px;
+}

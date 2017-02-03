@@ -1,0 +1,8 @@
+footer{
+	display:inline-block;
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	background-color:#2d0000;
+	color:grey;
+}

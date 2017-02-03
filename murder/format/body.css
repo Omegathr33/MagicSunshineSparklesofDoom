@@ -1,0 +1,44 @@
+body{
+	background-color:#680000;
+	height:auto;
+	padding-bottom:50px;
+}
+
+*:link{
+	color:white;
+}
+*:visited{
+	color:white;
+}
+
+.center{
+	display:inline-block;
+	width:50%;
+	height:70%;
+	min-height:350px;
+	background-color:grey;
+	border:2px black solid;
+
+	border-radius:30px;
+}
+
+.header{
+	display:inline-block;
+	margin:2%;
+}
+
+.main{
+	margin:1%;
+	text-align:left;
+	padding-bottom:50px;
+}
+
+.main p{
+	padding:3px;
+	margin:0px 10px;
+}
+
+.main h3{
+	padding:4px;
+	margin:0px 5px;
+}
